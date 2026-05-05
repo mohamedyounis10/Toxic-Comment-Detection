@@ -186,6 +186,7 @@ These were addressed through careful preprocessing, weighted learning, and a dua
 ```bash
 streamlit run Basemodel/app.py
 ```
+<img width="1863" height="866" alt="Screenshot 2026-05-05 130824" src="https://github.com/user-attachments/assets/7274f9fe-9a68-4270-a778-df99a531b725" />
 
 ### DistilBERT App
 ```bash
