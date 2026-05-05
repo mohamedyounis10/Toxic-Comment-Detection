@@ -1,3 +1,5 @@
+<img width="1870" height="862" alt="Screenshot 2026-05-05 132811" src="https://github.com/user-attachments/assets/c2ea805b-d3e6-4d76-b14d-92ec7444b481" />
+<img width="1870" height="862" alt="Screenshot 2026-05-05 132811" src="https://github.com/user-attachments/assets/90932d15-7331-4a41-b331-ec19591f2163" />
 <div align="center">
   <h1>Toxic Comment Detection 🛡️🤖💙</h1>
   <p>End-to-end NLP pipeline for multi-label toxicity classification (cleaning 🧹 → feature engineering ⚙️ → baseline ML 📈 → DistilBERT fine-tuning 🧠 → deployment 🚀).</p>
@@ -192,6 +194,7 @@ streamlit run Basemodel/app.py
 ```bash
 streamlit run DistilBERT/application.py
 ```
+<img width="1870" height="862" alt="Screenshot 2026-05-05 132811" src="https://github.com/user-attachments/assets/f67bd68f-8e5d-4ea8-b25d-aaf98c2975af" />
 
 ---
 
